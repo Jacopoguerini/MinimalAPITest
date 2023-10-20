@@ -1,0 +1,6 @@
+C:\projects\MinimalAPIProject1\MinimalAPIProject1DB\bin\Debug\MinimalAPIProject1DB.dacpac
+C:\projects\MinimalAPIProject1\MinimalAPIProject1DB\bin\Debug\MinimalAPIProject1DB.dll
+C:\projects\MinimalAPIProject1\MinimalAPIProject1DB\bin\Debug\MinimalAPIProject1DB.pdb
+C:\projects\MinimalAPIProject1\MinimalAPIProject1DB\obj\Debug\MinimalAPIProject1DB.sqlproj.AssemblyReference.cache
+C:\projects\MinimalAPIProject1\MinimalAPIProject1DB\obj\Debug\MinimalAPIProject1DB.dll
+C:\projects\MinimalAPIProject1\MinimalAPIProject1DB\obj\Debug\MinimalAPIProject1DB.pdb

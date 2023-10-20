@@ -1,0 +1,12 @@
+C:\projects\MinimalAPIProject1\DataAccess\bin\Debug\net7.0\DataAccess.deps.json
+C:\projects\MinimalAPIProject1\DataAccess\bin\Debug\net7.0\DataAccess.dll
+C:\projects\MinimalAPIProject1\DataAccess\bin\Debug\net7.0\DataAccess.pdb
+C:\projects\MinimalAPIProject1\DataAccess\obj\Debug\net7.0\DataAccess.csproj.AssemblyReference.cache
+C:\projects\MinimalAPIProject1\DataAccess\obj\Debug\net7.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\MinimalAPIProject1\DataAccess\obj\Debug\net7.0\DataAccess.AssemblyInfoInputs.cache
+C:\projects\MinimalAPIProject1\DataAccess\obj\Debug\net7.0\DataAccess.AssemblyInfo.cs
+C:\projects\MinimalAPIProject1\DataAccess\obj\Debug\net7.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\projects\MinimalAPIProject1\DataAccess\obj\Debug\net7.0\DataAccess.dll
+C:\projects\MinimalAPIProject1\DataAccess\obj\Debug\net7.0\refint\DataAccess.dll
+C:\projects\MinimalAPIProject1\DataAccess\obj\Debug\net7.0\DataAccess.pdb
+C:\projects\MinimalAPIProject1\DataAccess\obj\Debug\net7.0\ref\DataAccess.dll
